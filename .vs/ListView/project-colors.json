@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d73025b8-ad2c-86db-5100-b91faab39a1d": {
+      "ProjectGuid": "d73025b8-ad2c-86db-5100-b91faab39a1d",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "4e483e90-df84-8c9f-a31f-6d0fa3c09a5d": {
+      "ProjectGuid": "4e483e90-df84-8c9f-a31f-6d0fa3c09a5d",
+      "DisplayName": "Microsoft.MixedReality.Toolkit.Gltf",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,25 @@
+{
+    "highlight": [141,151,153,4],
+    "note": [
+      {
+        "node": 10,
+        "name": "Arm_pin",
+        "text": "This is Arm_pin"
+      },
+      {
+        "node": 137,
+        "name": "Body_pin",
+        "text": "This is Body_pin"
+      },
+      {
+        "node": 1,
+        "name": "Arm2",
+        "text": "This is Arm2"
+      },
+      {
+        "node": 138,
+        "name": "Body_pin.001",
+        "text": "This is Body_pin.001"
+      }
+    ]
+}
